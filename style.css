@@ -1,0 +1,65 @@
+.body{
+    margin: 0px;
+    font-family: 'Comfortaa';
+}
+.container{
+    margin: 0px 165px;
+}
+.header{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #F08A91;
+    width: vw;
+    height: 108px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header-line{
+    padding-top: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 360px;
+    margin-left: 365px;
+    flex-flow: row nowrap;
+
+}
+.nav-item{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 19px;
+    text-transform: uppercase;
+    margin-right: 28px;
+    transition: color 0.2s linear;
+
+}
+.nav-item:hover {
+    color: #c60000;
+}
+.cart {
+    position: absolute;
+    left: 86.25%;
+    right: 11.46%;
+    top: 33.33%;
+    bottom: 32.41%;
+    margin-right: 165px;
+}
+.header-logo {
+    position: absolute;
+    width: 123px;
+    height: 87px;
+    left: 165px;
+    top: 11px;
+}
+.user {
+    position: absolute;
+    left: 80.28%;
+    right: 17.92%;
+    top: 33.33%;
+    bottom: 39.86%;
+}
