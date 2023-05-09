@@ -94,7 +94,7 @@ body {
 .hero {
     min-width: 1150px;
     height: 600px;
-    background: #333 url("img/header/picture4.jpg") center center no-repeat;
+    background: #333 url("img/picture4.jpg") center center no-repeat;
     background-size: cover;
     text-align: center;
     overflow: auto;
